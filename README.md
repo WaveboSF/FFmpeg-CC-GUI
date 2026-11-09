@@ -45,4 +45,6 @@ into code to tracking down stubborn bugs, testing and writing the docs. The
 maintainer sets the direction, decides what ships—and occasionally says,
 “No, that’s not what I meant,” because otherwise every video would come out as a perfectly tested, beautifully documented 0-byte file.
 
+Three of us made this one: S.F. (direction and decisions), Claude from Anthropic and Codex from OpenAI.
+
 The public repository contains downloads, documentation and notices; the application source remains private. MIT licence (`LICENSE`); the licences of the built-in libraries are listed in `LICENSES/THIRD-PARTY-CRATES.txt`.
